@@ -5,3 +5,4 @@ scikit-learn==1.2.2
 seaborn==0.12.2
 flask==2.2.5
 protobuf==3.20.3
+gunicorn==22.0.0
