@@ -1,7 +1,7 @@
 # 💳 UPI Fraud Detection System using Machine Learning
 An end-to-end **AI-powered UPI Fraud Detection System** built using **Python, Flask, Scikit-learn, and Machine Learning**. The application predicts whether a **UPI (Unified Payments Interface) transaction** is **legitimate or fraudulent** based on transaction attributes, helping identify suspicious financial activities in real time.
----
 
+---
 # 🚀 Live Demo
 Test the live application here: **[UPI Fraud Detection System](https://upi-fraud-detection-qo9s.onrender.com/)**
 
@@ -10,11 +10,6 @@ Test the live application here: **[UPI Fraud Detection System](https://upi-fraud
 Digital payment platforms have transformed the way financial transactions are performed, but they have also increased the risk of fraudulent activities. Detecting fraudulent transactions quickly is critical for minimizing financial losses and improving user trust.
 
 This project leverages **Machine Learning** to analyze transaction data and classify UPI transactions as either **Fraudulent** or **Legitimate**. Users can enter transaction details through a simple web interface, and the trained model instantly predicts the likelihood of fraud.
-
----
-# 🎬 Project Demonstration
-Watch the complete project walkthrough on YouTube:
-**https://www.youtube.com/watch?v=Zj5BvuGiDOg&t=1352s**
 
 ---
 # ✨ Features
@@ -44,7 +39,8 @@ Watch the complete project walkthrough on YouTube:
                      ▼
      Legitimate Transaction / Fraud
 
-🔮 Future Enhancements
+```
+# 🔮 Future Enhancements
 Fraud risk score instead of binary prediction
 
 Explainable AI for feature importance
@@ -62,14 +58,15 @@ Docker support
 Cloud deployment (AWS, Azure, GCP)
 
 Integration with payment gateways
+---
 
-🤝 Contributions
+# 🤝 Contributions
 Contributions, feature requests, and improvements are welcome. Feel free to fork the repository and submit a Pull Request.
-
-Author
+---
+# 👨‍💻 Author
 Sravanthi Teppala
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-
-📄 License
+---
+# 📄 License
 This project is intended for educational, research, and learning purposes. It is not intended to replace production-grade fraud detection systems used by financial institutions.
